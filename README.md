@@ -7,5 +7,7 @@ Given the binary classification nature of this prediction problem, a textbook ap
 
 Background: Having studied Neural Networks and Deep Learning in my postgraduate course, I completed this project as a bridge to applying these concepts in a real-world setting and to begin exploring quantitative finance. Please do not hesitate to get in touch if you have ideas for extending the work or any feedback!
 
-(Side note: I purposefully chose to keep this network simple given the small dataset to avoid overtraining.)
+_Side note: I purposefully chose to keep this network simple given the small dataset to avoid overtraining._
+
+***The uploaded code will be adjusted and tidied soon with comments explaining the code and flow of work.***
 
